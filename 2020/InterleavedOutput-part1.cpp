@@ -36,8 +36,7 @@ void computeIO(string S){
                chi.pop();
            }
            
-        }
-           
+        }       
            //cout<<S[i];
     }
     cout<<count;
